@@ -9,11 +9,29 @@ Template: dt-the7
 */
 @import url("../dt-the7/style.css");
 
-.page-title{
-<<<<<<< HEAD
-    background-color: yellow;
-    color:green;
-=======
-    background-color: cyan;
->>>>>>> 684871fbfc10cd928e77cde03c9e4d3246f368af
+
+
+/*************************/
+/*         NAVBAR        */
+/*************************/
+
+.masthead {
+    background-color: white !important;
+}
+.menu-text {
+    font-size: 1rem !important;
+    color: black !important;
+}
+
+.menu-text:hover {
+    color: grey;
+}
+
+.dt-mobile-header {
+    background-color: white !important;
+}
+
+.page-title {
+    background-color: pink !important;
+    height: 600px !important;
 }
