@@ -10,5 +10,10 @@ Template: dt-the7
 @import url("../dt-the7/style.css");
 
 .page-title{
+<<<<<<< HEAD
+    background-color: yellow;
+    color:green;
+=======
     background-color: cyan;
+>>>>>>> 684871fbfc10cd928e77cde03c9e4d3246f368af
 }
